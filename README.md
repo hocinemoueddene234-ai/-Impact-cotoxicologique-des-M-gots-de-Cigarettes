@@ -6,6 +6,8 @@ Ce projet se concentre sur les déchets les plus visibles et polluants liés à 
 
 
 Substance chimique 	Effets écotoxicologiques:
+
+
 <img width="640" height="193" alt="image" src="https://github.com/user-attachments/assets/f152d833-d4f0-4544-b7d7-7714618a29a8" />
 
 
