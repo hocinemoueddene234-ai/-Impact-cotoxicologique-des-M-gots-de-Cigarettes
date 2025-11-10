@@ -2,7 +2,7 @@
 Ce projet se concentre sur les déchets les plus visibles et polluants liés à la nicotine : les mégots.
 
 
-https://www.apsah.asso.fr/media/g_vignette/12092.jpg
+![Sans titre](https://github.com/user-attachments/assets/65c3fcc4-cf80-491e-be93-78895ae68474)
 
 
 Substance chimique 	Effets écotoxicologiques
@@ -14,4 +14,5 @@ Ammoniac	Toxique pour la vie aquatique.
 <img width="640" height="193" alt="image" src="https://github.com/user-attachments/assets/f152d833-d4f0-4544-b7d7-7714618a29a8" />
 
 
-<!-- Failed to upload "Chaque seconde, 137 000 mégots de cigarette échouent dans l'océan • RFI.mp4" -->
+https://github.com/user-attachments/assets/c50f61df-4eb3-47da-9cfc-1b59876d8da5
+
